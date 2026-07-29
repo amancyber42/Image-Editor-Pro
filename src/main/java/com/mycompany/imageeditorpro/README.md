@@ -32,4 +32,4 @@
    ```bash
    mvn clean javafx:run
 
-![Image Editor Pro Sučelje](images/image_editor_pro.png)
+<img src="images/image_editor_pro.png" alt="Image Editor Pro" width="800">
